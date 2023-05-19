@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419453080464",
+    "project_id": "heartyapp-303d9",
+    "storage_bucket": "heartyapp-303d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419453080464:android:8c32879707df6af6a65915",
+        "android_client_info": {
+          "package_name": "com.example.hearty_app_techno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419453080464-tnc19kepd7570k6dp1put40snfjstk1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TSyZfKNWgxOCQvhZptRXvSxaFs4fFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419453080464-tnc19kepd7570k6dp1put40snfjstk1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
