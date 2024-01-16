@@ -1,16 +1,5 @@
-# hearty_app
+# hearty
 
-A new Flutter project.
+Hearty is a specialized app that helps users with high risk for heart disease maintain a healthy lifestyle. Using user input logs, Hearty displays messages based on algorithms in the background urging the user to get more sleep, exercise more often, etc.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app only works on Android. This app was created with Firebase integration. It does not require additional apis to run.
